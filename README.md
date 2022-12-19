@@ -1,5 +1,6 @@
 ## Python Exercises
 Python Exercises Class 2022/23 - Cloud
+*Edit changes mand in Dev branch @ 11.17 19/12/2022
 ## Aims
 This report aims to introduce Python programming at a basic level:
 
