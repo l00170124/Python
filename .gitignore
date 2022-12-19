@@ -1,0 +1,2 @@
+#Do not allow *.pyc files to be uploaded
+*.pyc
