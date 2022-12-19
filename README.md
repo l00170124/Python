@@ -14,4 +14,4 @@ This report aims to introduce Python programming at a basic level:
 09.	To understand how to write tests in Python
 10.	To understand how to work with date and time in Python and how to deal with log files. 
 11.	To understand how to work with network protocols in Python
-12.	To introduce the first steps to creating a project.
+12.	To introduce the first steps to creating a project. 
